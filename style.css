@@ -32,6 +32,7 @@ body{
 .text h2{
     color: hsl(218, 44%, 22%);
     padding-bottom: 15px;
+     font-weight: 600;
 }
 .text p{
     color: hsl(220, 15%, 55%);
